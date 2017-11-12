@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/andormade/eslint-config-andor/issues"
   },
-  "homepage": "https://github.com/andormade/eslint-config-andor#readme"
+  "homepage": "https://github.com/andormade/eslint-config-andor#readme",
+  "dependencies": {
+    "eslint": "^4.11.0"
+  }
 }
